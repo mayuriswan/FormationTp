@@ -1,0 +1,46 @@
+﻿@page
+
+@model IndexModel
+@{
+    ViewData["Title"] = "w";
+}
+
+<div class="container">
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Address</th>
+                <th scope="col">PhoneNumber</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var restaurant in Model.restaurants)
+            {
+                <tr>
+                    <th scope="row">@restaurant.Id</th>
+                    <td>@restaurant.Name</td>
+                    <td>@restaurant.Address</td>
+                    <td>@restaurant.PhoneNumber</td>
+                    <td>
+                        <a type="button" asp-page="./Details" asp-route-id="@restaurant.Id" class="btn btn-sm btn-secondary">Details</a>
+                        <a type="button" asp-page="./Edit" asp-route-id="@restaurant.Id" class="btn btn-sm btn-warning">Edit</a>
+                        <a type="button" asp-page="./Delete" asp-route-id="@restaurant.Id" class="btn btn-sm btn-danger">Delete</a>
+                    </td>
+
+                </tr>
+            }
+           
+          
+        </tbody>
+    </table>
+
+
+
+        <my-custom-tag>This  s from Tag Helper</my-custom-tag>
+ </div>

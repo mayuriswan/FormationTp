@@ -1,0 +1,9 @@
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Repository\bin\Debug\Repository.dll
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Repository\bin\Debug\Repository.pdb
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Repository\bin\Debug\Shared.dll
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Repository\bin\Debug\Shared.pdb
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Repository\obj\Debug\Repository.dll
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Repository\obj\Debug\Repository.pdb
