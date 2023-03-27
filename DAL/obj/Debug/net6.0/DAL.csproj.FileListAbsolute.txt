@@ -1,0 +1,17 @@
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\bin\Debug\net6.0\Shared1.dll
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\bin\Debug\net6.0\Shared1.pdb
+C:\Users\aelhaoussi\Downloads\SolutionFormation\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete

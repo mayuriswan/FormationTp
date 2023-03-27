@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FormationApi</name>
+    </assembly>
+    <members>
+        <member name="M:FormationApi.Controllers.RestaurantController.GetAll">
+            <summary>
+            Get All Restaurants 
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

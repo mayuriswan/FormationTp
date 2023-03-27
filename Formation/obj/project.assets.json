@@ -1,66 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "Repository/1.0.0": {
-        "type": "project",
-        "dependencies": {
-          "Shared": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Repository.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Repository.dll": {}
-        }
-      },
-      "Services/1.0.0": {
-        "type": "project",
-        "dependencies": {
-          "Repository": "1.0.0",
-          "Shared": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Services.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Services.dll": {}
-        }
-      },
-      "Shared/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/Shared.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Shared.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "Repository/1.0.0": {
-      "type": "project",
-      "path": "../Repository/Repository.csproj",
-      "msbuildProject": "../Repository/Repository.csproj"
-    },
-    "Services/1.0.0": {
-      "type": "project",
-      "path": "../Services/Services.csproj",
-      "msbuildProject": "../Services/Services.csproj"
-    },
-    "Shared/1.0.0": {
-      "type": "project",
-      "path": "../Shared/Shared.csproj",
-      "msbuildProject": "../Shared/Shared.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "Repository >= 1.0.0",
-      "Services >= 1.0.0",
-      "Shared >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\aelhaoussi\\.nuget\\packages\\": {}
@@ -88,17 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Repository\\Repository.csproj"
-            },
-            "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Services\\Services.csproj"
-            },
-            "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Shared\\Shared.csproj": {
-              "projectPath": "C:\\Users\\aelhaoussi\\Downloads\\SolutionFormation\\Shared\\Shared.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

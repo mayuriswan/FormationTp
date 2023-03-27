@@ -1,0 +1,12 @@
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Shared1\bin\Debug\net6.0\Shared1.deps.json
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Shared1\bin\Debug\net6.0\Shared1.dll
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Shared1\bin\Debug\net6.0\Shared1.pdb
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Shared1\obj\Debug\net6.0\Shared1.csproj.AssemblyReference.cache
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Shared1\obj\Debug\net6.0\Shared1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Shared1\obj\Debug\net6.0\Shared1.AssemblyInfoInputs.cache
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Shared1\obj\Debug\net6.0\Shared1.AssemblyInfo.cs
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Shared1\obj\Debug\net6.0\Shared1.csproj.CoreCompileInputs.cache
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Shared1\obj\Debug\net6.0\Shared1.dll
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Shared1\obj\Debug\net6.0\refint\Shared1.dll
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Shared1\obj\Debug\net6.0\Shared1.pdb
+C:\Users\aelhaoussi\Downloads\SolutionFormation\Shared1\obj\Debug\net6.0\ref\Shared1.dll
